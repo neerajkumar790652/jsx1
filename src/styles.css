@@ -1,0 +1,23 @@
+
+.main{
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.profile a{
+  margin-right:10px ;
+}
+
+.hr{
+  height:3px;
+  background-color: black;
+  
+}
+ul{
+  font-size: 20px;
+  /* margin:20px; */
+}
+ul li{
+  font-size: 15px;
+  margin-top: 10px;
+}
